@@ -1,0 +1,2 @@
+HEADERS += \
+    core/global.h
