@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/mute.png</file>
+        <file>Resources/sound.png</file>
+        <file>Resources/wordWrap.png</file>
+    </qresource>
+</RCC>

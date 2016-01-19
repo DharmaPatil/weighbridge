@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>Resources/editCopy.png</file>
+        <file>Resources/editCut.png</file>
+        <file>Resources/editPaste.png</file>
+        <file>Resources/editRedo.png</file>
+        <file>Resources/editUndo.png</file>
+        <file>Resources/exportPdf.png</file>
+        <file>Resources/fileNew.png</file>
+        <file>Resources/fileOpen.png</file>
+        <file>Resources/filePrint.png</file>
+        <file>Resources/fileSave.png</file>
+        <file>Resources/penWidth.png</file>
+        <file>Resources/textBold.png</file>
+        <file>Resources/textCenter.png</file>
+        <file>Resources/textItalic.png</file>
+        <file>Resources/textJustify.png</file>
+        <file>Resources/textLeft.png</file>
+        <file>Resources/textRight.png</file>
+        <file>Resources/textUnder.png</file>
+        <file>Resources/toolArrow.png</file>
+        <file>Resources/toolImage.png</file>
+        <file>Resources/toolLine.png</file>
+        <file>Resources/toolRect.png</file>
+        <file>Resources/toolText.png</file>
+        <file>Resources/zoomin.png</file>
+        <file>Resources/zoomout.png</file>
+    </qresource>
+</RCC>

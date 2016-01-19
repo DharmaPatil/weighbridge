@@ -1,0 +1,17 @@
+({
+	plantform_count: 3,
+	
+	// 位置索引
+	index: {
+		plantform1: ["A"],
+		plantform2: ["B"],
+		plantform3: ["C"],
+	},
+	
+	// 尺寸规格
+	spec: {
+		plantform1_len: 3800,
+		plantform2_len: 3800,
+		plantform3_len: 3800,
+	},
+})

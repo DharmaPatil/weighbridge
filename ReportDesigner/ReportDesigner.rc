@@ -1,0 +1,6 @@
+#include "winver.h"
+
+128		ICON		DISCARDABLE	"ReportDesigner.ico"
+IDI_ICON1		ICON		DISCARDABLE	"ReportDesigner.ico"
+
+#include "../global.rc"
